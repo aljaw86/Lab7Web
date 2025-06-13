@@ -36,14 +36,14 @@
 ### 7. Membuat View
 
 - Membuat file about.php
-  ![Gambar 8](screnshoot/Pratikum1/8.png)
+  ![Gambar 9](screnshoot/Pratikum1/9.png)
 
 ### 8. Membuat Layout Web dengan CSS
 
 - Membuat template header dan footer
- ![Gambar 9](screnshoot/Pratikum1/9.png)
  ![Gambar 10](screnshoot/Pratikum1/10.png)
-![Gambar 11](screnshoot/Pratikum1/11.png)
+ ![Gambar 11](screnshoot/Pratikum1/11.png)
+![Gambar 12](screnshoot/Pratikum1/12.png)
 ## Pertanyaan dan Tugas
 
 Saya telah melengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga semua link pada navigasi header dapat menampilkan tampilan dengan layout yang sama.
