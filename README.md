@@ -5,7 +5,7 @@
 ### 1. Persiapan
 
 - Mengaktifkan ekstensi PHP yang dibutuhkan
-  ![Gambar 1](screenshots/1.png)
+  ![Gambar 1](screnshoot/Pratikum 1/1.png).
 
 ### 2. Instalasi CodeIgniter 4
 
