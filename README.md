@@ -49,10 +49,10 @@
 Saya telah melengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga semua link pada navigasi header dapat menampilkan tampilan dengan layout yang sama.
 
 - Halaman About
- ![Gambar 13](screnshoot/Pratikum1/12.png)
+ ![Gambar 13](screnshoot/Pratikum1/13.png)
 
 - Halaman Contact
-  ![Gambar 14](screnshoot/Pratikum1/13.png)
+  ![Gambar 14](screnshoot/Pratikum1/17.png)
 
 - Halaman FAQ
  ![Gambar 15](screnshoot/Pratikum1/14.png)
