@@ -6,11 +6,12 @@
 
 - Mengaktifkan ekstensi PHP yang dibutuhkan
   ![Gambar 1](screnshoot/Pratikum1/1.png)
+  ![Gambar 2](screnshoot/Pratikum1/2.png)
   
 ### 2. Instalasi CodeIgniter 4
 
 - Mengunduh dan mengekstrak CodeIgniter 4
-  ![Gambar 2](screenshots/2.png)
+  ![Gambar 3](screnshoot/Pratikum1/3.png)
 
 ### 3. Menjalankan CLI
 
