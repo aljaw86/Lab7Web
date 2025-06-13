@@ -16,22 +16,22 @@
 ### 3. Menjalankan CLI
 
 - Menggunakan Command Line Interface
-  ![Gambar 3](screenshots/3.png)
+  ![Gambar 4](screnshoot/Pratikum1/4.png)
 
 ### 4. Mengaktifkan Mode Debugging
 
 - Mengubah file env menjadi .env
- ![Gambar 4](screnshoot/Pratikum1/4.png)
+ ![Gambar 6](screnshoot/Pratikum1/6.png)
 
 ### 5. Membuat Route Baru
 
 - Menambahkan route di Routes.php
- ![Gambar 6](screnshoot/Pratikum1/6.png)
+ ![Gambar 7](screnshoot/Pratikum1/7.png)
 
 ### 6. Membuat Controller
 
 - Membuat file Page.php
- ![Gambar 7](screnshoot/Pratikum1/7.png)
+ ![Gambar 8](screnshoot/Pratikum1/8.png)
 
 ### 7. Membuat View
 
