@@ -21,52 +21,51 @@
 ### 4. Mengaktifkan Mode Debugging
 
 - Mengubah file env menjadi .env
-  ![Gambar 4](screenshots/4.png)
+ ![Gambar 4](screnshoot/Pratikum1/4.png)
 
 ### 5. Membuat Route Baru
 
 - Menambahkan route di Routes.php
-  ![Gambar 5](screenshots/5.png)
+ ![Gambar 6](screnshoot/Pratikum1/6.png)
 
 ### 6. Membuat Controller
 
 - Membuat file Page.php
-  ![Gambar 6](screenshots/6.png)
+ ![Gambar 7](screnshoot/Pratikum1/7.png)
 
 ### 7. Membuat View
 
 - Membuat file about.php
-  ![Gambar 7](screenshots/7.png)
+  ![Gambar 8](screnshoot/Pratikum1/8.png)
 
 ### 8. Membuat Layout Web dengan CSS
 
 - Membuat template header dan footer
-  ![Gambar 81](screenshots/81.png)
-  ![Gambar 82](screenshots/82.png)
-  ![Gambar 83](screenshots/83.png)
-
+ ![Gambar 9](screnshoot/Pratikum1/9.png)
+ ![Gambar 10](screnshoot/Pratikum1/10.png)
+![Gambar 11](screnshoot/Pratikum1/11.png)
 ## Pertanyaan dan Tugas
 
 Saya telah melengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga semua link pada navigasi header dapat menampilkan tampilan dengan layout yang sama.
 
 - Halaman About
-  ![Gambar 9](screenshots/9.png)
+ ![Gambar 12](screnshoot/Pratikum1/12.png)
 
 - Halaman Contact
-  ![Gambar 10](screenshots/10.png)
+  ![Gambar 13](screnshoot/Pratikum1/13.png)
 
 - Halaman FAQ
-  ![Gambar 11](screenshots/11.png)
+ ![Gambar 14](screnshoot/Pratikum1/14.png)
 
 - Halaman Terms of Service
-  ![Gambar 12](screenshots/12.png)
+ ![Gambar 5](screnshoot/Pratikum1/5.png)
 
 - Modifikasi file page.php
-  ![Gambar 13](screenshots/13.png)
+   ![Gambar 15](screnshoot/Pratikum1/15.png)
 
 ## Hasil Akhir Praktikum 1
 
-![Gambar 14](screenshots/14.png)
+ ![Gambar 16](screnshoot/Pratikum1/16.png)
 
 # Praktikum 2: Framework Lanjutan (CRUD)
 
